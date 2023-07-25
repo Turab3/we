@@ -210,6 +210,7 @@ li>a:hover{
     color:rgb(28, 83, 201);
     border:1px solid rgb(28, 83, 201);
     transition: 0.75s;
+    font-size: 25px;
 }
 
 .in{
@@ -225,6 +226,7 @@ li>a:hover{
     color: rgb(245, 110, 161);
     border: 1px solid rgb(245, 110, 161);
     transition: 0.75s;
+    font-size: 25px;
 }
 
 .nav3{
